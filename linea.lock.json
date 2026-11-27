@@ -1,0 +1,40 @@
+{
+  "lockVersion": 1,
+  "packages": {
+    "github:carlos-sf5/advanced-operations-module": {
+      "kind": "module",
+      "version": "0.1.0",
+      "revision": "7fa3c267139e7c6661793150d7996a3cd080a81e"
+    },
+    "github:carlos-sf5/basic": {
+      "kind": "metamodel",
+      "version": "0.1.0",
+      "revision": "72426e0b66050a9f1e1bcc674c343f0a7b80f71a"
+    },
+    "github:carlos-sf5/basic-module": {
+      "kind": "module",
+      "version": "0.1.0",
+      "revision": "0d7d844bee34997765b1e861a4c4ae9c868789b2"
+    },
+    "github:carlos-sf5/basic-operations-module": {
+      "kind": "module",
+      "version": "0.1.0",
+      "revision": "32add5c34d4174b5d1ee89b042dd6938f79dc213"
+    },
+    "github:carlos-sf5/capabilities-module": {
+      "kind": "module",
+      "version": "0.1.0",
+      "revision": "7bfdc1e46eb8e59fa936154fa8f6a86f76bcfadc"
+    },
+    "github:carlos-sf5/common": {
+      "kind": "metamodel",
+      "version": "0.1.0",
+      "revision": "9cede4dbc1033b2fd7bac4d5ef1d4d3a1b987a31"
+    },
+    "github:carlos-sf5/featuremodel": {
+      "kind": "metamodel",
+      "version": "0.1.0",
+      "revision": "a2d49a75eff699b1480afc36b4f15bdd67ceee10"
+    }
+  }
+}
