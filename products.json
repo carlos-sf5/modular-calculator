@@ -1,0 +1,9 @@
+{
+  "productos": [
+    {
+      "name": "modular-product",
+      "repositorio": "carlos-sf5/modular-calculator-modular-product",
+      "version": "0.0.0"
+    }
+  ]
+}
